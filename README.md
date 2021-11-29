@@ -15,13 +15,13 @@
 <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=mehedihasan740&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan740" /></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raihan-miah-889171190/">
+  <a href="https://www.linkedin.com/in/mehedi-hasan-3b965b172/">
     <img align="center" src="https://github.com/mehedihasan740/mehedihasan740-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
-  <a href="https://instagram.com/ryihan_">
+  <a href="https://instagram.com/mehedihasan214">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
-  <a href="mailto:ryihan55@gmail.com">
+  <a href="mailto:mm.mehedi40@gmail.com">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
   <a href="https://stackoverflow.com/users/13554586/growbing-development-inc">
